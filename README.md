@@ -11,7 +11,7 @@
         <ul>
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md </li>
             <li>Work: https://krikun1983-english-for-kids-base.netlify.app/ </li>
-            <li>Key skills: TypeScript, Spa, React, Redux</li>
+            <li>Key skills: TypeScript, Spa, React, Redux, Webpack </li>
             <li>20.07.2021</li>
     </td>
     <td width="40%">
@@ -28,7 +28,7 @@
         <ul>
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/match-match-game.md</li>
             <li>Work: https://krikun1983-match-match-game.netlify.app/#/ </li>
-            <li>Key skills: TypeScript, SPA,IndexedDb, </li>
+            <li>Key skills: TypeScript, SPA,IndexedDb, Webpack </li>
             <li>30.05.2021</li>
     </td>
     <td width="40%">
