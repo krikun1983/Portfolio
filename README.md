@@ -3,6 +3,23 @@
 - Portfolio: https://github.com/krikun1983/Portfolio#readme
 - Codewars: https://www.codewars.com/users/krikun1983
 
+## English for kids 
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md </li>
+            <li>Work: https://krikun1983-english-for-kids-base.netlify.app/ </li>
+            <li>Key skills: TypeScript, Spa, React, Redux</li>
+            <li>20.07.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/efk.png">
+    </td>
+</tr>
+</table>
+
 ## Match-Match Game
 
 <table border="0">
