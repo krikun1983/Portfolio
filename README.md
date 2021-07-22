@@ -3,6 +3,23 @@
 - Portfolio: https://github.com/krikun1983/Portfolio#readme
 - Codewars: https://www.codewars.com/users/krikun1983
 
+## Match-Match Game
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/match-match-game.md</li>
+            <li>Work: https://krikun1983-match-match-game.netlify.app/#/ </li>
+            <li>Key skills: TypeScript, SPA,IndexedDb, </li>
+            <li>30.05.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/match-game.png">
+    </td>
+</tr>
+</table>
+
 ## Photo-filter
 
 <table border="0">
