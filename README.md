@@ -64,6 +64,7 @@
         <ul>
             <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/photo-filter</li>
             <li>Work: https://rolling-scopes-school.github.io/krikun1983-JSFE2021Q1/photo-filter/</li>
+            <li>Link to repo: https://github.com/krikun1983/photo-filter </li>
             <li>Key skills: work with files, upload local files, save files to computer, work with Date, Canvas API</li>
             <li>26.04.2021</li>
     </td>
