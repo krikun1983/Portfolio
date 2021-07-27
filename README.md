@@ -82,6 +82,7 @@
         <ul>
             <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/online-zoo/variant-2</li>
             <li>Work: https://rolling-scopes-school.github.io/krikun1983-JSFE2021Q1/online-zoo/</li>
+            <li>Link to repo: https://github.com/krikun1983/online-zoo</li>
             <li>Key skills: layout for desktop skrins, adaptive for 1920px, 1200px, js</li>
             <li>07.05.2021</li>
     </td>
@@ -99,6 +100,7 @@
         <ul>
             <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/virtual-piano</li>
             <li>Work: https://rolling-scopes-school.github.io/krikun1983-JSFE2021Q1/virtual-piano/</li>
+            <li>Link to repo: https://github.com/krikun1983/virtual-piano </li>
             <li>Key skills: work with DOM, work with sound, work with Fullscreen API, mouse events, keyboard events</li>
             <li>17.03.2021</li>
     </td>
