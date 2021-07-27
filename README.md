@@ -44,6 +44,7 @@
     <td>
         <ul>
             <li>Work: https://krikun1983-tic-tac-toe-game.netlify.app/ </li>
+            <li>Link to github: https://github.com/krikun1983/tic-tac-toe-game </li>
             <li>Key skills: TypeScript, React, Sass, Webpack </li>
             <li>27.07.2021</li>
     </td>
