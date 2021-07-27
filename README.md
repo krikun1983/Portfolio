@@ -37,6 +37,22 @@
 </tr>
 </table>
 
+## The tic-tac-toe game
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Work: https://krikun1983-tic-tac-toe-game.netlify.app/ </li>
+            <li>Key skills: TypeScript, React, Sass, Webpack </li>
+            <li>27.07.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/tic-tac-toe-game.png">
+    </td>
+</tr>
+</table>
+
 ## Photo-filter
 
 <table border="0">
