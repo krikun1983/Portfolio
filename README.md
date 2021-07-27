@@ -11,6 +11,7 @@
         <ul>
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md </li>
             <li>Work: https://krikun1983-english-for-kids-base.netlify.app/ </li>
+            <li>Link to repo: https://github.com/krikun1983/english-for-kids-base</>
             <li>Key skills: TypeScript, Spa, React, Redux, Webpack </li>
             <li>20.07.2021</li>
     </td>
@@ -44,7 +45,7 @@
     <td>
         <ul>
             <li>Work: https://krikun1983-tic-tac-toe-game.netlify.app/ </li>
-            <li>Link to github: https://github.com/krikun1983/tic-tac-toe-game </li>
+            <li>Link to repo: https://github.com/krikun1983/tic-tac-toe-game </li>
             <li>Key skills: TypeScript, React, Sass, Webpack </li>
             <li>27.07.2021</li>
     </td>
