@@ -29,6 +29,7 @@
         <ul>
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/match-match-game.md</li>
             <li>Work: https://krikun1983-match-match-game.netlify.app/#/ </li>
+            <li>Link to repo: https://github.com/krikun1983/match-match-game </li>
             <li>Key skills: TypeScript, SPA,IndexedDb, Webpack </li>
             <li>30.05.2021</li>
     </td>
