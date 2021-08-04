@@ -21,6 +21,23 @@
 </tr>
 </table>
 
+## Todo-App 
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Work: https://krikun1983-todo-list.netlify.app/ </li>
+            <li>Link to repo: https://github.com/krikun1983/react-todo-list</>
+            <li>Key skills: TypeScript, React, Redux, Webpack </li>
+            <li>04.08.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/todo-list.png">
+    </td>
+</tr>
+</table>
+
 ## Match-Match Game
 
 <table border="0">
