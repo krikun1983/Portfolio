@@ -21,6 +21,25 @@
 </tr>
 </table>
 
+## React-Redux-TS-Api-Router-Spa 
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Work: https://krikun-react-redux.netlify.app/ </li>
+            <li>Link to repo: https://github.com/krikun1983/react-redux-api-router</>
+            <li>Link to Api: https://rickandmortyapi.com/about</>
+            <li>Key skills: TypeScript, Spa, React, Redux, Api, Webpack </li>
+            <li>31.08.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/react-redux.png">
+    </td>
+</tr>
+</table>
+
+
 ## Todo-App 
 
 <table border="0">
