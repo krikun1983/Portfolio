@@ -3,6 +3,23 @@
 - Portfolio: https://github.com/krikun1983/Portfolio#readme
 - Codewars: https://www.codewars.com/users/krikun1983
 
+## React-star-wars-api-ts 
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Work: https://krikun1983-react-star-wars-api-typescript.netlify.app/ </li>
+            <li>Link to repo: https://github.com/krikun1983/react-star-wars-api-ts</>
+            <li>Key skills: React, Redux, Routing, TypeScript, Spa, Api, Webpack, Own Hooks, UI-kit, React Context Api </li>
+            <li>03.09.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/star-wars.png">
+    </td>
+</tr>
+</table>
+
 ## English for kids 
 
 <table border="0">
