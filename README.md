@@ -3,6 +3,23 @@
 - Portfolio: https://github.com/krikun1983/Portfolio#readme
 - Codewars: https://www.codewars.com/users/krikun1983
 
+## Canvas-space-battle-game-js 
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Work: https://space-battle-krikun1983.netlify.app/ </li>
+            <li>Link to repo: https://github.com/krikun1983/space-battle-canvas-js</>
+            <li>Key skills: Canvas API, Js, requestAnimationFrame </li>
+            <li>31.10.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/space.png">
+    </td>
+</tr>
+</table>
+
 ## React-star-wars-api-ts 
 
 <table border="0">
