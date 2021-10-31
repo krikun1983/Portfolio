@@ -11,7 +11,7 @@
         <ul>
             <li>Work: https://space-battle-krikun1983.netlify.app/ </li>
             <li>Link to repo: https://github.com/krikun1983/space-battle-canvas-js</>
-            <li>Key skills: Canvas API, Js, requestAnimationFrame </li>
+            <li>Key skills: Canvas API, Js, RequestAnimationFrame </li>
             <li>31.10.2021</li>
     </td>
     <td width="40%">
