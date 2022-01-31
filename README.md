@@ -15,7 +15,7 @@
             <li>31.01.2022</li>
     </td>
     <td width="40%">
-        <img src="img/todo-list.png">
+        <img src="img/todo-list-node.png">
     </td>
 </tr>
 </table>
