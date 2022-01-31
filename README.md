@@ -3,6 +3,23 @@
 - Portfolio: https://github.com/krikun1983/Portfolio#readme
 - Codewars: https://www.codewars.com/users/krikun1983
 
+## Todo-list-React-redux-thunk-ts-node-express-mongoBD-js 
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Work: https://space-battle-krikun1983.netlify.app/ </li>
+            <li>Link to repo: https://krikun1983-react-redux-ts-node-express.netlify.app/</>
+            <li>Key skills: React, Redux, Redux-Thunk, Typescript, Node js, Express, MongoBD, Rest Api</li>
+            <li>31.01.2022</li>
+    </td>
+    <td width="40%">
+        <img src="img/todo-list.png">
+    </td>
+</tr>
+</table>
+
 ## Canvas-space-battle-game-js 
 
 <table border="0">
