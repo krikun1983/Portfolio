@@ -9,8 +9,8 @@
 <tr>
     <td>
         <ul>
-            <li>Work: https://space-battle-krikun1983.netlify.app/ </li>
-            <li>Link to repo: https://krikun1983-react-redux-ts-node-express.netlify.app/</>
+            <li>Work: https://krikun1983-react-redux-ts-node-express.netlify.app/ (Login: Stanislav, password: 12345)</li>
+            <li>Link to repo: https://github.com/krikun1983/todo-react-redux-thunk-ts-node-express-mongobd-js/</>
             <li>Key skills: React, Redux, Redux-Thunk, Typescript, Node js, Express, MongoDB, Rest Api</li>
             <li>31.01.2022</li>
     </td>
