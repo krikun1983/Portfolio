@@ -3,16 +3,16 @@
 - Portfolio: https://github.com/krikun1983/Portfolio#readme
 - Codewars: https://www.codewars.com/users/krikun1983
 
-## Todo-list-React-redux-thunk-ts-node-express-mongoDB-js 
+## Многофункциональный TODO-лист с неограниченной вложенностью категорий и фильтрацией прикрепленных задач и страницей авторизации + CRUD API на Node JS 
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Work: https://krikun1983-react-redux-ts-node-express.netlify.app/ (Login: Stanislav, password: 12345)</li>
-            <li>Link to repo: https://github.com/krikun1983/todo-react-redux-thunk-ts-node-express-mongobd-js/</>
-            <li>Key skills: React, Redux, Redux-Thunk, Typescript, Node js, Express, MongoDB, Rest Api</li>
-            <li>31.01.2022</li>
+            <li>Деплой проекта: https://krikun1983-react-redux-ts-node-express.netlify.app/ (Логин: Stanislav, пароль: 12345)</li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/todo-react-redux-thunk-ts-node-express-mongobd-js/</>
+            <li>Стек технологий: React, Redux (Redux-Thunk), React-router 6, Typescript, Node js,  Express, MongoDB, Rest API, ESLint, Prettier</li>т
+            <li>Описание: Многофункциональный TODO-лист с неограниченной вложенностью категорий и фильтрацией прикрепленных задач + CRUD API (Node JS). Присутствует страница авторизации. Категории можно редактировать, удалять, добавлять, вкладывать в другие категории. Задачи можно создавать, переносить в другие категории, выполнять, переименовывать, добавлять описание. Также присутствует шкала выполнения задач категории и фильтр поиска.</li>
     </td>
     <td width="40%">
         <img src="img/todo-list-node.png">
@@ -20,16 +20,16 @@
 </tr>
 </table>
 
-## Canvas-space-battle-game-js 
+## Браузерная игра
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Work: https://space-battle-krikun1983.netlify.app/ </li>
-            <li>Link to repo: https://github.com/krikun1983/space-battle-canvas-js</>
-            <li>Key skills: Canvas API, Js, RequestAnimationFrame </li>
-            <li>31.10.2021</li>
+            <li>Деплой проекта: https://space-battle-krikun1983.netlify.app/ </li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/space-battle-canvas-js</>
+            <li>Стек технологий: JS, Canvas API, RequestAnimationFrame </li>
+            <li>Описание приложения: Браузерная игра на ванильном JavaScript и HTML5 (Canvas + window.requestAnimationFrame). Космический корабль пробирается между астероидами и вражескими кораблями. Клавиатурное управление. Есть возможность убивать врага и астероиды, получая за это очки и бонусы. Есть выбор сложности игры и запись имени игрока. Игрок, набравший наибольшее количество очков, записывается в рекордсмены.</li>
     </td>
     <td width="40%">
         <img src="img/space.png">
@@ -37,16 +37,16 @@
 </tr>
 </table>
 
-## React-star-wars-api-ts 
+## Приложение «Звездные войны»  
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Work: https://krikun1983-react-star-wars-api-typescript.netlify.app/ </li>
-            <li>Link to repo: https://github.com/krikun1983/react-star-wars-api-ts</>
-            <li>Key skills: React, Redux, Routing, TypeScript, Spa, Api, Webpack, Own Hooks, UI-kit, React Context Api </li>
-            <li>03.09.2021</li>
+            <li>Деплой проекта: https://krikun1983-react-star-wars-api-typescript.netlify.app/ </li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/react-star-wars-api-ts</>
+            <li>Стек технологий: React, Redux, SPA (React-router 5), TypeScript, Webpack, Own Hooks, UI-kit, React Context Api</li>
+            <li>Описание приложения: Можно просматривать информацию о персонаже саги. Добавлять в избранное, искать по имени. Менять цветовую тему.</li>
     </td>
     <td width="40%">
         <img src="img/star-wars.png">
@@ -54,17 +54,16 @@
 </tr>
 </table>
 
-## English for kids 
+## Приложение английский для детей 
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md </li>
-            <li>Work: https://krikun1983-english-for-kids-base.netlify.app/ </li>
-            <li>Link to repo: https://github.com/krikun1983/english-for-kids-base</>
-            <li>Key skills: TypeScript, Spa, React, Redux, Webpack </li>
-            <li>20.07.2021</li>
+            <li>Деплой проекта: https://krikun1983-english-for-kids-base.netlify.app/ </li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/english-for-kids-base</>
+            <li>Стек технологий: Javascript(ES6+), TypeScript, React, Redux, SPA, Webpack, Browser API</li>
+            <li>Описание приложения: Приложение для изучения английских слов детьми. Приложение работает в режиме тренировки и в режиме игры. Имеется возможность посмотреть статистику, работа над ошибками.</li>
     </td>
     <td width="40%">
         <img src="img/efk.png">
@@ -72,17 +71,17 @@
 </tr>
 </table>
 
-## React-Redux-TS-Api-Router-Spa 
+## Приложение The Rick and Morty
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Work: https://krikun-react-redux.netlify.app/ </li>
-            <li>Link to repo: https://github.com/krikun1983/react-redux-api-router</>
-            <li>Link to Api: https://rickandmortyapi.com/about</>
-            <li>Key skills: TypeScript, Spa, React, Redux, Router, Api, Webpack </li>
-            <li>31.08.2021</li>
+            <li>Деплой проекта: https://krikun-react-redux.netlify.app/ </li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/react-redux-api-router</>
+            <li>Ссылка на API: https://rickandmortyapi.com/about</>
+            <li>Стек технологий: TypeScript, Spa, React, Redux, Router, Api, Webpack </li>
+            <li>Описание приложения: Работа с учебным API - The Rick and Morty API is a REST</li>
     </td>
     <td width="40%">
         <img src="img/react-redux.png">
@@ -90,36 +89,17 @@
 </tr>
 </table>
 
-
-## Todo-App 
-
-<table border="0">
-<tr>
-    <td>
-        <ul>
-            <li>Work: https://krikun1983-todo-list.netlify.app/ </li>
-            <li>Link to repo: https://github.com/krikun1983/react-todo-list</>
-            <li>Key skills: TypeScript, React, Redux, Webpack </li>
-            <li>04.08.2021</li>
-    </td>
-    <td width="40%">
-        <img src="img/todo-list.png">
-    </td>
-</tr>
-</table>
-
-## SPA: Game Async-race
+## SPA приложение: асинхронные гонки
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md</li>
-            <li>Download server for viewing: https://github.com/mikhama/async-race-api</li>
-            <li>Work (Attention!!! Does not work without the included server): https://krikun1983-async-race.netlify.app </li>
-            <li>Link to repo: https://github.com/krikun1983/async-race </li>
-            <li>Key skills: TypeScript, SPA, Webpack, Сommunication with a server (fetch, REST API), Async coding / Promises, JS Animations, DOM Api </li>
-            <li>30.06.2021</li>
+            <li>Ссылка на сервер: https://github.com/mikhama/async-race-api</li>
+            <li>Деплой проекта: (Внимание, не работает без запущенного сервера): https://krikun1983-async-race.netlify.app </li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/async-race </li>
+            <li>Стек технологий: TypeScript, SPA, Webpack, Сommunication with a server (fetch, REST API), Async coding / Promises, JS Animations, DOM Api </li>
+            <li>Описание приложения: Машинки на скорость, в зависимости от ответа сервера, передвигаются по игровому полю, как одиночно, так и в общем заезде. Можно создавать машинки и менять их цвет и имя, а также удалять. Также реализовано рендомное создание машинок. Победитель попадает в таблицу лидеров. Таблица имеет возможность сортировки и удаления машинок. Если количество машин больше 7, то реализована постраничная пагинация. </li>
     </td>
     <td width="40%">
         <img src="img/async.png">
@@ -127,17 +107,16 @@
 </tr>
 </table>
 
-## Match-Match Game
+## Игра Матч-матч
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/match-match-game.md</li>
-            <li>Work: https://krikun1983-match-match-game.netlify.app/#/ </li>
-            <li>Link to repo: https://github.com/krikun1983/match-match-game </li>
-            <li>Key skills: TypeScript, SPA,IndexedDb, Webpack </li>
-            <li>30.05.2021</li>
+            <li>Деплой проекта: https://krikun1983-match-match-game.netlify.app/#/ </li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/match-match-game </li>
+            <li>Стек технологий: TypeScript, SPA,IndexedDb, Webpack </li>
+            <li>Описание приложения: Игра match-match используется для тренировки памяти. Игровое поле состоит из карточек с разными рисунками на обратной стороне. Перед началом игровой сессии игроку показывают расположение всех парных карточек, по истечению 30 секунд их скрывают. Победа засчитывается когда найдены все пары карточек.</li>
     </td>
     <td width="40%">
         <img src="img/match-game.png">
@@ -145,34 +124,16 @@
 </tr>
 </table>
 
-## The tic-tac-toe game
+## Фото Фильтр
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Work: https://krikun1983-tic-tac-toe-game.netlify.app/ </li>
-            <li>Link to repo: https://github.com/krikun1983/tic-tac-toe-game </li>
-            <li>Key skills: TypeScript, React, Sass, Webpack </li>
-            <li>27.07.2021</li>
-    </td>
-    <td width="40%">
-        <img src="img/tic-tac-toe-game.png">
-    </td>
-</tr>
-</table>
-
-## Photo-filter
-
-<table border="0">
-<tr>
-    <td>
-        <ul>
-            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/photo-filter</li>
-            <li>Work: https://rolling-scopes-school.github.io/krikun1983-JSFE2021Q1/photo-filter/</li>
-            <li>Link to repo: https://github.com/krikun1983/photo-filter </li>
-            <li>Key skills: work with files, upload local files, save files to computer, work with Date, Canvas API</li>
-            <li>26.04.2021</li>
+            <li>Деплой проекта: https://rolling-scopes-school.github.io/krikun1983-JSFE2021Q1/photo-filter/</li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/photo-filter </li>
+            <li>Стек технологий: Работа с файлами, загрузка локальных файлов в приложение, сохранение файла на компьютер, работа с Date API, Canvas API</li>
+            <li>Описание приложения: Photo-filter, в зависимости от времени суток (утро, день, вечер, ночь) подгружаются разный пакеты фотографий. Есть возможность загрузить свою фотографию с компьютера, а так же скачать с выбранными фильтрами.</li>
     </td>
     <td width="40%">
         <img src="img/photo-filter.png">
@@ -180,17 +141,16 @@
 </tr>
 </table>
 
-## Online-zoo - animal observation site
+## Адаптивный сайт на ванильном JS, SCSS и HTML
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/online-zoo/variant-2</li>
-            <li>Work: https://rolling-scopes-school.github.io/krikun1983-JSFE2021Q1/online-zoo/</li>
-            <li>Link to repo: https://github.com/krikun1983/online-zoo</li>
-            <li>Key skills: layout for desktop skrins, adaptive for 1920px, 1200px, js</li>
-            <li>07.05.2021</li>
+            <li>Деплой проекта: https://rolling-scopes-school.github.io/krikun1983-JSFE2021Q1/online-zoo/</li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/online-zoo</li>
+            <li>Описание приложения: layout for desktop skrins, adaptive for 1920px, 1200px, js</li>
+            <li>Описание приложения: Адаптивный сайт на ванильном JS, SCSS и HTML, адаптированный под разные экраны</li>
     </td>
     <td width="40%">
         <img src="img/online-zoo.png">
@@ -198,17 +158,34 @@
 </tr>
 </table>
 
+## Игра крестики нолики
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Деплой проекта: https://krikun1983-tic-tac-toe-game.netlify.app/ </li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/tic-tac-toe-game </li>
+            <li>Стек технологий: TypeScript, React, Sass, Webpack</li>
+            <li>Описание приложения: Простая игра крестики нолики с возможностью отмены шагов</li>
+    </td>
+    <td width="40%">
+        <img src="img/tic-tac-toe-game.png">
+    </td>
+</tr>
+</table>
+
+
+
 ## Virtual-piano
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/virtual-piano</li>
-            <li>Work: https://rolling-scopes-school.github.io/krikun1983-JSFE2021Q1/virtual-piano/</li>
-            <li>Link to repo: https://github.com/krikun1983/virtual-piano </li>
-            <li>Key skills: work with DOM, work with sound, work with Fullscreen API, mouse events, keyboard events</li>
-            <li>17.03.2021</li>
+            <li>Деплой проекта: https://rolling-scopes-school.github.io/krikun1983-JSFE2021Q1/virtual-piano/</li>
+            <li>Ссылка на репозиторий: https://github.com/krikun1983/virtual-piano </li>
+            <li>Стек технологий: Работа с DOM, работа со звуком, mouse events, keyboard events</li>
     </td>
     <td width="40%">
         <img src="img/virtual-piano.jpg">
@@ -222,29 +199,12 @@
 <tr>
     <td>
         <ul>
-            <li>Work: http://xn--80aagyaafge2affsmfeji0h.xn--p1ai/</li>
-            <li>Key skills: Joomla, HTML, CSS</li>
-            <li>1.11.2020</li>
+            <li>Деплой проекта: http://xn--80aagyaafge2affsmfeji0h.xn--p1ai/</li>
+            <li>Стек технологий: Joomla, HTML, CSS</li>
+            <li>Описание проекта: Новостной портал на CMS, адаптированный под разные экраны</li>
     </td>
     <td width="40%">
         <img src="img/saristoch.jpg">
-    </td>
-</tr>
-</table>
-
-## Virtual keyboard
-
-<table border="0">
-<tr>
-    <td>
-        <ul>
-            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/codejam-virtual-keyboard.md</li>
-            <li>Work: https://krikun1983.github.io/codejam-virtual-keyboard/</li>
-            <li>Key skills: JS mouse events, JS keyboard events</li>
-            <li>1.11.2020</li>
-    </td>
-    <td width="40%">
-        <img src="img/keyboard.jpg">
     </td>
 </tr>
 </table>
