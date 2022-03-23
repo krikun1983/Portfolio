@@ -3,16 +3,16 @@
 - Portfolio: https://github.com/krikun1983/Portfolio#readme
 - Codewars: https://www.codewars.com/users/krikun1983
 
-## Многофункциональный TODO-лист с неограниченной вложенностью категорий и фильтрацией прикрепленных задач и страницей авторизации + CRUD API на Node JS 
+## Многофункциональный TODO-лист с неограниченной вложенностью категорий и фильтрацией прикрепленных задач и страницей авторизации + CRUD API на Node JS ##
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>**Деплой проекта:** https://krikun1983-react-redux-ts-node-express.netlify.app/ (Логин: Stanislav, пароль: 12345)</li>
-            <li>**Ссылка на репозиторий**: https://github.com/krikun1983/todo-react-redux-thunk-ts-node-express-mongobd-js/</>
-            <li>**Стек технологий:** React, Redux (Redux-Thunk), React-router 6, Typescript, Node js,  Express, MongoDB, Rest API, ESLint, Prettier</li>
-            <li>**Описание:** Многофункциональный TODO-лист с неограниченной вложенностью категорий и фильтрацией прикрепленных задач + CRUD API (Node JS). Присутствует страница авторизации. Категории можно редактировать, удалять, добавлять, вкладывать в другие категории. Задачи можно создавать, переносить в другие категории, выполнять, переименовывать, добавлять описание. Также присутствует шкала выполнения задач категории и фильтр поиска.</li>
+            <li><b>Деплой проекта:</b> <https://krikun1983-react-redux-ts-node-express.netlify.app> (Логин: Stanislav, пароль: 12345)</li>
+            <li><b>Ссылка на репозиторий:</b> <https://github.com/krikun1983/todo-react-redux-thunk-ts-node-express-mongobd-js/></>
+            <li><b>Стек технологий:</b> React, Redux (Redux-Thunk), React-router 6, Typescript, Node js,  Express, MongoDB, Rest API, ESLint, Prettier</li>
+            <li><b>Описание:</b> Многофункциональный TODO-лист с неограниченной вложенностью категорий и фильтрацией прикрепленных задач + CRUD API (Node JS). Присутствует страница авторизации. Категории можно редактировать, удалять, добавлять, вкладывать в другие категории. Задачи можно создавать, переносить в другие категории, выполнять, переименовывать, добавлять описание. Также присутствует шкала выполнения задач категории и фильтр поиска.</li>
     </td>
     <td width="40%">
         <img src="img/todo-list-node.png">
@@ -26,10 +26,10 @@
 <tr>
     <td>
         <ul>
-            <li>Деплой проекта: https://space-battle-krikun1983.netlify.app/ </li>
-            <li>Ссылка на репозиторий: https://github.com/krikun1983/space-battle-canvas-js</>
-            <li>Стек технологий: JS, Canvas API, RequestAnimationFrame </li>
-            <li>Описание приложения: Браузерная игра на ванильном JavaScript и HTML5 (Canvas + window.requestAnimationFrame). Космический корабль пробирается между астероидами и вражескими кораблями. Клавиатурное управление. Есть возможность убивать врага и астероиды, получая за это очки и бонусы. Есть выбор сложности игры и запись имени игрока. Игрок, набравший наибольшее количество очков, записывается в рекордсмены.</li>
+            <li><b>Деплой проекта:</b> https://space-battle-krikun1983.netlify.app/ </li>
+            <li><b>Ссылка на репозиторий:</b> https://github.com/krikun1983/space-battle-canvas-js</>
+            <li><b>Стек технологий:</b> JS, Canvas API, RequestAnimationFrame </li>
+            <li><b>Описание приложения:</b> Браузерная игра на ванильном JavaScript и HTML5 (Canvas + window.requestAnimationFrame). Космический корабль пробирается между астероидами и вражескими кораблями. Клавиатурное управление. Есть возможность убивать врага и астероиды, получая за это очки и бонусы. Есть выбор сложности игры и запись имени игрока. Игрок, набравший наибольшее количество очков, записывается в рекордсмены.</li>
     </td>
     <td width="40%">
         <img src="img/space.png">
@@ -37,16 +37,16 @@
 </tr>
 </table>
 
-## Приложение «Звездные войны»  
+## Приложение «Звездные войны»
 
 <table border="0">
 <tr>
     <td>
         <ul>
-            <li>Деплой проекта: https://krikun1983-react-star-wars-api-typescript.netlify.app/ </li>
-            <li>Ссылка на репозиторий: https://github.com/krikun1983/react-star-wars-api-ts</>
-            <li>Стек технологий: React, Redux, SPA (React-router 5), TypeScript, Webpack, Own Hooks, UI-kit, React Context Api</li>
-            <li>Описание приложения: Можно просматривать информацию о персонаже саги. Добавлять в избранное, искать по имени. Менять цветовую тему.</li>
+            <li><b>Деплой проекта:</b> https://krikun1983-react-star-wars-api-typescript.netlify.app/ </li>
+            <li><b>Ссылка на репозиторий:</b> https://github.com/krikun1983/react-star-wars-api-ts</>
+            <li><b>Стек технологий:</b> React, Redux, SPA (React-router 5), TypeScript, Webpack, Own Hooks, UI-kit, React Context Api</li>
+            <li><b>Описание приложения:</b> Можно просматривать информацию о персонаже саги. Добавлять в избранное, искать по имени. Менять цветовую тему.</li>
     </td>
     <td width="40%">
         <img src="img/star-wars.png">
@@ -54,7 +54,7 @@
 </tr>
 </table>
 
-## Приложение английский для детей 
+## Приложение английский для детей
 
 <table border="0">
 <tr>
