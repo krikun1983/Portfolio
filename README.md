@@ -9,10 +9,10 @@
 <tr>
     <td>
         <ul>
-            <li>**Деплой проекта:** https://krikun1983-react-redux-ts-node-express.netlify.app/ (Логин: Stanislav, пароль: 12345)</li>
-            <li>**Ссылка на репозиторий**: https://github.com/krikun1983/todo-react-redux-thunk-ts-node-express-mongobd-js/</>
-            <li>**Стек технологий:** React, Redux (Redux-Thunk), React-router 6, Typescript, Node js,  Express, MongoDB, Rest API, ESLint, Prettier</li>
-            <li>**Описание:** Многофункциональный TODO-лист с неограниченной вложенностью категорий и фильтрацией прикрепленных задач + CRUD API (Node JS). Присутствует страница авторизации. Категории можно редактировать, удалять, добавлять, вкладывать в другие категории. Задачи можно создавать, переносить в другие категории, выполнять, переименовывать, добавлять описание. Также присутствует шкала выполнения задач категории и фильтр поиска.</li>
+            <li>** Деплой проекта: ** https://krikun1983-react-redux-ts-node-express.netlify.app/ (Логин: Stanislav, пароль: 12345)</li>
+            <li>** Ссылка на репозиторий **: https://github.com/krikun1983/todo-react-redux-thunk-ts-node-express-mongobd-js/</>
+            <li>** Стек технологий: ** React, Redux (Redux-Thunk), React-router 6, Typescript, Node js,  Express, MongoDB, Rest API, ESLint, Prettier</li>
+            <li>** Описание: ** Многофункциональный TODO-лист с неограниченной вложенностью категорий и фильтрацией прикрепленных задач + CRUD API (Node JS). Присутствует страница авторизации. Категории можно редактировать, удалять, добавлять, вкладывать в другие категории. Задачи можно создавать, переносить в другие категории, выполнять, переименовывать, добавлять описание. Также присутствует шкала выполнения задач категории и фильтр поиска.</li>
     </td>
     <td width="40%">
         <img src="img/todo-list-node.png">
