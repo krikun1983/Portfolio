@@ -9,8 +9,8 @@
 <tr>
     <td>
         <ul>
-            <li><b>Деплой проекта:</b> <https://krikun1983-react-redux-ts-node-express.netlify.app> (Логин: Stanislav, пароль: 12345)</li>
-            <li><b>Ссылка на репозиторий:</b> <https://github.com/krikun1983/todo-react-redux-thunk-ts-node-express-mongobd-js/></>
+            <li><b>Деплой проекта:</b> https://krikun1983-react-redux-ts-node-express.netlify.app/ (Логин: Stanislav, пароль: 12345)</li>
+            <li><b>Ссылка на репозиторий:</b> https://github.com/krikun1983/todo-react-redux-thunk-ts-node-express-mongobd-js/</>
             <li><b>Стек технологий:</b> React, Redux (Redux-Thunk), React-router 6, Typescript, Node js,  Express, MongoDB, Rest API, ESLint, Prettier</li>
             <li><b>Описание:</b> Многофункциональный TODO-лист с неограниченной вложенностью категорий и фильтрацией прикрепленных задач + CRUD API (Node JS). Присутствует страница авторизации. Категории можно редактировать, удалять, добавлять, вкладывать в другие категории. Задачи можно создавать, переносить в другие категории, выполнять, переименовывать, добавлять описание. Также присутствует шкала выполнения задач категории и фильтр поиска.</li>
     </td>
